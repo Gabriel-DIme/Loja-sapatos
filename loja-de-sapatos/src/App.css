@@ -1,0 +1,26 @@
+header {
+  background: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  text-align: center;
+}
+
+button {
+  background: #008cba;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  cursor: pointer;
+}
